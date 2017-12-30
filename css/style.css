@@ -1,6 +1,7 @@
 body
 {
   margin-top: 70px !important;
+  font-size: 16px;
 }
 
 h1,h2,h3,h4,h5,h6
@@ -58,4 +59,24 @@ navbar-default
 {
   font-size: 20px;
   color: #666;
+}
+#info1 info-right
+{
+  margin-top: 90px;
+}
+#info2
+{
+  margin: 20px 0 60px 0;
+}
+#contact
+{
+  background: url('../img/image3.png');
+  padding: 40px;
+  color: #fff;
+  border-top: #333 7px solid;
+  border-bottom: #333 7px solid;
+}
+footer
+{
+  padding: 30px;
 }
